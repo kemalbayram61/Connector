@@ -1,4 +1,4 @@
-from KList import KList
+from objects.KList import KList
 
 class Application:
     id          = None
